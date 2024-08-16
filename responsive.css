@@ -159,6 +159,10 @@
     }
     .why-flex{
         display: block;
+        
+    }
+    .motivate, .session, .results{
+        margin: 15px 0;
     }
     .footer-main{
         display: block;
@@ -168,6 +172,9 @@
     }
     .footer-right{
         display: block;
+        
+        
+
     }
     .fitness h3{
         text-align: left;
@@ -176,6 +183,17 @@
     .fitness p{
         text-align: left;
         width: 350px;
+    }
+    .list h4{
+        text-align: left;
+        font-size: x-large;
+        
+    }
+    .list p{
+        color: rgb(156, 151, 151);
+        text-align: left;
+        font-size: larger;
+        
     }
 
 }
