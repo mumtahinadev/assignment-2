@@ -1,0 +1,181 @@
+@media screen and (max-width: 576px) {
+    
+    .container{
+        width: 90%;
+        margin: 2rem auto;
+        border-radius: 1rem;
+        color: white;
+       
+    }
+    .nav-options{
+        display: none;
+    }
+    .bar{
+        display: block;
+    }
+    
+    .banner{
+        display: block;
+    }
+    .get-container{
+        margin-bottom: 50px;
+    }
+    .get-container h3{
+        color: white;
+        font-size: 3rem;
+        font-weight: 800;
+        text-align: left;
+        width: 300px;
+    }
+    .get-container p{
+        color:rgba(255, 255, 255, 0.5);
+        font-size: 18px;
+        line-height: 26px;
+        width: 300px;
+        text-align: left;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    
+    }
+     .btn{
+        display: flex;
+        justify-content: space-between;
+    }
+    .btn-primary{
+        width: 200px;
+        height: 40px;
+        justify-content: center;
+        align-items: center;
+        gap: 8px;
+        padding: 5px 15px;
+        background-color: rgb(255, 84, 0);
+        color: white;
+        border: 1px solid rgb(255, 84, 0) ;
+        /* border-radius: 25px; */
+    }
+    .btn2{
+        width: 150px;
+        height: 40px;
+        justify-content: center;
+        align-items: center;
+        /* gap: 8px; */
+        color: white;
+        border: 1px solid
+        rgb(187, 182, 182) ;
+        border-radius: 25px;
+        background-color: black;
+    }
+    .habits{
+        display: block;
+    }
+    .run{
+        display: block;
+        width: 90%;
+       
+    }
+    .run-right,  .run-left{
+        width: 100%;
+        text-align: center;
+    }
+    .run-right{
+        margin-bottom: 10px;
+    }
+    .run-right h3{
+        font-weight: 900;
+        font-size: 48px;
+        text-align: center;
+        width: 100%;
+
+    } 
+    .run-right p{
+        text-align: center;
+        margin:10px 0;
+         width: 100%; 
+       
+    
+    } 
+    
+     .run-left img{
+        width: 100%;
+        border-radius: 20px;
+    }
+    .bmi-start{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .bmi{
+        display: block;
+    }
+    .bmi-chart {
+        width: 90%;
+        max-width: 400px;
+        margin: 10px auto;
+        background-color: rgba(255, 255, 255, 0.05);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+    .Calculator{
+        width: 90%;
+       
+     }
+    .Calculator h4, p{
+        text-align: left;
+        margin: 10px;
+     }
+     form{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+       margin: 10px 0;
+       
+        
+     }
+     input, select{
+        background-color: rgba(255, 255, 255, 0.1);
+        border: none;
+        height: 42px;
+        width: 90%;
+        
+        border-radius: 5px;
+        color: rgba(240, 255, 255, 0.315);
+        padding-left: 10px;
+       
+        
+    
+     }
+     .team{
+        background-color: rgba(255, 255, 255, 0.1);
+        border-radius: 10px;
+        display: block;
+        width: 90%;
+        margin: 0 auto;
+        
+     }
+     .trainer{
+        position: relative;
+        padding: 10px 10px;
+    }
+    .why{
+        display: block;
+    }
+    .why-flex{
+        display: block;
+    }
+    .footer-main{
+        display: block;
+        width: 90%;
+        margin: 2rem auto;
+        color: white;
+    }
+    .footer-right{
+        display: block;
+    }
+    .fitness h3{
+        text-align: left;
+        font-size: 70px;
+    }
+    .fitness p{
+        text-align: left;
+        width: 350px;
+    }
+
+}
