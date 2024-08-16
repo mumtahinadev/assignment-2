@@ -314,7 +314,7 @@ padding: 20px 20px 20px 20px;
     
 
  }
- /* .why{
+ .why{
     width: 80%;
     margin: 0 auto;
     background-color: rgb(34, 34, 34);
@@ -322,7 +322,7 @@ padding: 20px 20px 20px 20px;
     border-radius: 10px;
     padding: 15px;
     
- } */
+ }
  .why h3{
     color: aliceblue;
  } .why-flex{
